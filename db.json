@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Redax",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn Alpine.js",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Learn HTML",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Learn CSS",
+      "completed": false
+    }
+  ]
+}
